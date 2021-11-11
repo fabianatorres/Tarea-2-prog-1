@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Documents\programaFabiana\bin\Debug\net5.0\programaFabiana.exe
+C:\Users\Marcelo\Documents\programaFabiana\bin\Debug\net5.0\programaFabiana.deps.json
+C:\Users\Marcelo\Documents\programaFabiana\bin\Debug\net5.0\programaFabiana.runtimeconfig.json
+C:\Users\Marcelo\Documents\programaFabiana\bin\Debug\net5.0\programaFabiana.runtimeconfig.dev.json
+C:\Users\Marcelo\Documents\programaFabiana\bin\Debug\net5.0\programaFabiana.dll
+C:\Users\Marcelo\Documents\programaFabiana\bin\Debug\net5.0\ref\programaFabiana.dll
+C:\Users\Marcelo\Documents\programaFabiana\bin\Debug\net5.0\programaFabiana.pdb
+C:\Users\Marcelo\Documents\programaFabiana\obj\Debug\net5.0\programaFabiana.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Documents\programaFabiana\obj\Debug\net5.0\programaFabiana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\programaFabiana\obj\Debug\net5.0\programaFabiana.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\programaFabiana\obj\Debug\net5.0\programaFabiana.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\programaFabiana\obj\Debug\net5.0\programaFabiana.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\programaFabiana\obj\Debug\net5.0\programaFabiana.dll
+C:\Users\Marcelo\Documents\programaFabiana\obj\Debug\net5.0\ref\programaFabiana.dll
+C:\Users\Marcelo\Documents\programaFabiana\obj\Debug\net5.0\programaFabiana.pdb
+C:\Users\Marcelo\Documents\programaFabiana\obj\Debug\net5.0\programaFabiana.genruntimeconfig.cache
